@@ -1,0 +1,10 @@
+footer{
+    height: 200px;
+}
+p{
+    font-family: Georgia, serif;
+    transition: color, 0.4s;
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+}
